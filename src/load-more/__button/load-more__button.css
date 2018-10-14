@@ -1,0 +1,13 @@
+.load-more__button {
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 990px){
+    .load-more__button {
+        margin: 20px 0;
+    }
+}

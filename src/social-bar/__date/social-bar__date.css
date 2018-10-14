@@ -1,0 +1,11 @@
+.social-bar__date {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    color: #a7a7a7;
+}
+
+@media screen and (max-width: 990px) {
+    .social-bar__date {
+        font-size: 29px;
+    }
+}

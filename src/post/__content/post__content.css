@@ -1,0 +1,11 @@
+.post__content {
+    height: 405px;
+    margin-bottom: 7px;
+}
+
+@media screen and (max-width: 990px) {
+    .post__content {
+        height: 875px;
+        margin-bottom: 42px;
+    }
+}

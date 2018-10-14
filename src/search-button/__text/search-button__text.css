@@ -1,0 +1,10 @@
+.search-button__text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+}
+
+@media screen and (max-width: 990px) {
+    .search-button__text {
+        display: none;
+    }
+}

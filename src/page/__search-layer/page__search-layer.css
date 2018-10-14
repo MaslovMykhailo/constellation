@@ -1,0 +1,11 @@
+.page__search-layer {
+    position: fixed;
+    top: -20%;
+    left: 19.5%;
+}
+
+@media screen and (max-width: 990px) {
+    .page__search-layer {
+        left: 5%;
+    }
+}

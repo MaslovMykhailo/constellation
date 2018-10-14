@@ -1,0 +1,11 @@
+.page__post-container {
+    margin: auto;
+    padding: 4.5% 0 0;
+}
+
+
+@media screen and (max-width: 990px) {
+    .page__post-container {
+        padding-top: 11%;
+    }
+}

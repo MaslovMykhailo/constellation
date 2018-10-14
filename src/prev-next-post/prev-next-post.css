@@ -1,0 +1,10 @@
+.prev-next-post {
+    padding-top: 10px;
+    border-top: 1px solid #a7a7a7;
+}
+
+@media screen and (max-width: 990px) {
+    .prev-next-post {
+        display: none;
+    }
+}

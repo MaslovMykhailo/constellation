@@ -1,0 +1,12 @@
+.footer__text {
+    color: #a7a7a7;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+}
+
+@media screen and (max-width: 990px){
+    .footer__text {
+        font-size: 25px;
+        line-height: 40px;
+    }
+}

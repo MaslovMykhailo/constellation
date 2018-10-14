@@ -1,0 +1,15 @@
+.menu__description {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    color: #a7a7a7;
+    padding: 3.5% 22.4%;
+    line-height: 18px;
+}
+
+@media screen and (max-width: 990px) {
+    .menu__description {
+        padding-left: 21%;
+        font-size: 24px;
+        line-height: 40px;
+    }
+}
